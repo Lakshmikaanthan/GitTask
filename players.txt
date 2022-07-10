@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Roy
 Butler
 Archer
@@ -7,3 +8,12 @@ Kohli
 DK
 Bumrah
 Yuzi
+=======
+Warner
+Smith
+Maxwell
+Cummins
+Starc
+Warne
+Bailey
+>>>>>>> australia
