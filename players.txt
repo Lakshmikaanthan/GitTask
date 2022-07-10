@@ -15,3 +15,7 @@ Starc
 Warne
 Bailey
 Clarke
+Roy
+Butler
+Archer
+Stokes
