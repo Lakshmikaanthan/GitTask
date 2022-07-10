@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Dhawan 
 Rohit
@@ -24,3 +25,9 @@ Steyn
 Rabada
 Tahir
 Pollock
+=======
+Imran Khan
+Akthar
+Babar Azham
+Wasim 
+>>>>>>> pakistan
